@@ -1,1 +1,0 @@
-{"version":3,"file":"\/home\/beat\/projects\/reader-test\/out\/my\/project\/main.js","sources":["main.cljs"],"lineCount":10,"mappings":";AAAA;;AAEA,uBAAA,vBAAMA,sDAAMC;AAAZ,AACE,4BAAA,5BAACC;;AADH","names":["my.project.main\/main","args","cljs.core\/println"]}
